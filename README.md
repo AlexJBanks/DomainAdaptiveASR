@@ -1,4 +1,23 @@
 # Domain Adaptive Automatic Speech Recognition
+### Final Year Project code submission for MSci Comp Sci degree
+
+This repo contains the code contribution side of my FYP (Dissertation) in 2022.
+It complements the 13,000 word report, not included.
+
+## Brief Summary
+ASR can be inaccurate.
+Some of those inaccuracies come about when the ASR transcriber runs into ambiguities and doesn't understand the context to disambiguate.
+If we got the transcriber to understand the Domain (Topic of Speech) it should be more accurate.
+This project included a series of experiments with methodologies to improve the accuracy of transcription by making the ASR transcriber include knowledge of domain.
+
+
+The project was submitted in June 2022, and received a 1st.
+It's just taken me until July 2023 to actually upload it.
+
+original file as follows
+___
+
+# Domain Adaptive Automatic Speech Recognition
 ### Alex Banks - 1780069
 #### M60 Computer Science Project
 ___
